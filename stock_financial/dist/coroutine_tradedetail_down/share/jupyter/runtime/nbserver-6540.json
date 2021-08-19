@@ -1,0 +1,11 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "D:\\anaconda3",
+  "password": false,
+  "pid": 6540,
+  "port": 8888,
+  "secure": false,
+  "token": "d43e93c216f81b53e2d8403aee815c85c6332836ed7ec562",
+  "url": "http://localhost:8888/"
+}
